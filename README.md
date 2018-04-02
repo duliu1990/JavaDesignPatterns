@@ -1,4 +1,4 @@
-# JavaDesignPatterns www.proliu.com
+# JavaDesignPatterns www.devnp.com
 Java Design Patterns
 
 1.add Singleton Pattern
